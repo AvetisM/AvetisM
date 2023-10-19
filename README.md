@@ -2,7 +2,12 @@
 My name is Avetis! Welcome :v:
 + I'm 35 years old.
 + I learn java at [Job4j](https://job4j.ru/)
-+ I learn Computer science in [SUAI](https://guap.ru/) (State University of Aerospace Instrumentation)
++ I learn Computer science in [SUAI](https://suai.ru/) (State University of Aerospace Instrumentation)
+
+- <b>Core technologies: </b>
+  <p>Java, Spring, Hibernate, Maven, PostgresSQL</p>
+- <b><font color="blue">Here is my projects</font> </b> 
+
 
 <!--
 **AvetisM/AvetisM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
