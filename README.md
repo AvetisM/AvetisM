@@ -1,7 +1,6 @@
 ### Hi! 👋
 My name is Avetis! Welcome :v:
-+ I'm 35 years old.
-+ I learn java at [Job4j](https://job4j.ru/)
++ I'm 36 years old.
 + I learn Computer science in [SUAI](https://suai.ru/) (State University of Aerospace Instrumentation)
 
 + <b>Core technologies: </b>
