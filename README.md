@@ -7,12 +7,7 @@ My name is Avetis! Welcome :v:
   <p>Java, Spring, Hibernate, Maven, PostgresSQL</p>
 #### Here is my projects
 
-1. [URL Shortcut service using Spring](https://github.com/AvetisM/job4j_url_shortcut)
-2. [Car accident registration app using Spring](https://github.com/AvetisM/job4j_accidents)
-3. [Job market using Spring & JDBC](https://github.com/AvetisM/job4j_dreamjob)
-4. [TodoList using Spring & Hibernate](https://github.com/AvetisM/job4j_todo)
-5. [Job grabber(HTML Parser using JSOP)](https://github.com/AvetisM/job4j_grabber)
-6. [Console CRUD app using JDBC](https://github.com/AvetisM/job4j_tracker)
+1. [Service trial interviews at it](https://github.com/AvetisM/CheckDev)
 <!--
 **AvetisM/AvetisM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
